@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Wilson\\Snackify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\telefonetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\telefonetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|c:\\projetos\\wilson\\snackify\\snackify.domain\\valueobjects\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|solutionrelative:snackify.domain\\valueobjects\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\senhatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\senhatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|c:\\projetos\\wilson\\snackify\\snackify.domain\\valueobjects\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|solutionrelative:snackify.domain\\valueobjects\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\nometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\nometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\enderecotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\enderecotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|c:\\projetos\\wilson\\snackify\\snackify.domain\\valueobjects\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|solutionrelative:snackify.domain\\valueobjects\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|c:\\projetos\\wilson\\snackify\\snackify.tests\\valueobjects\\cpftests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25094820-B458-4C35-AFD3-506914F06CFD}|Snackify.Tests\\Snackify.Tests.csproj|solutionrelative:snackify.tests\\valueobjects\\cpftests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|c:\\projetos\\wilson\\snackify\\snackify.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59660683-2A48-4398-8779-620626D30F43}|Snackify.Domain\\Snackify.Domain.csproj|solutionrelative:snackify.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Telefone.cs",
+              "RelativeDocumentMoniker": "Snackify.Domain\\ValueObjects\\Telefone.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Telefone.cs",
+              "RelativeToolTip": "Snackify.Domain\\ValueObjects\\Telefone.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:36:45.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SenhaTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\SenhaTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\SenhaTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\SenhaTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\SenhaTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:01:54.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nome.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Nome.cs",
+              "RelativeDocumentMoniker": "Snackify.Domain\\ValueObjects\\Nome.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Nome.cs",
+              "RelativeToolTip": "Snackify.Domain\\ValueObjects\\Nome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:00:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NomeTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\NomeTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\NomeTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\NomeTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\NomeTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:59:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Endereco.cs",
+              "RelativeDocumentMoniker": "Snackify.Domain\\ValueObjects\\Endereco.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Endereco.cs",
+              "RelativeToolTip": "Snackify.Domain\\ValueObjects\\Endereco.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:11:22.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelefoneTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\TelefoneTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\TelefoneTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\TelefoneTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\TelefoneTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:11:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\EnderecoTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\EnderecoTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\EnderecoTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\EnderecoTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:11:22.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "Snackify.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "Snackify.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:23:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\EmailTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\EmailTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\EmailTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\EmailTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:08:02.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CpfTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\CpfTests.cs",
+              "RelativeDocumentMoniker": "Snackify.Tests\\ValueObjects\\CpfTests.cs",
+              "ToolTip": "C:\\Projetos\\Wilson\\Snackify\\Snackify.Tests\\ValueObjects\\CpfTests.cs",
+              "RelativeToolTip": "Snackify.Tests\\ValueObjects\\CpfTests.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:02:01.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
